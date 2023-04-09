@@ -266,6 +266,10 @@ acestream://2bd30c34ca8e3f1e858af297b8163184a78e45a8
 acestream://3a71745381e1a6821a881c96a230b6cd365d4da5
 #EXTINF:-1 group-title="4K",FAP TV UHD 4K
 acestream://290341cc053fd10af14e88a03559530906a0d7d2
+#EXTINF:-1 group-title="4K",Love Nature 4K [RU]
+acestream://a54d3ec9d49487cb1e9102c74f341fec4cebd189
+#EXTINF:-1 group-title="4K",BCU Kids 4K [RU]
+acestream://c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 
 #EXTINF:-1 group-title="GIẢI TRÍ",Fashion TV Midnite Secrets
 acestream://80d98e27bc7dcad214fca3b2a7ef9ff5c1496cef
