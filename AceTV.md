@@ -240,83 +240,6 @@ acestream://15cc58b8ca2928ad68bc285df2a37f653eebd35a
 #EXTINF:-1 group-title="THỂ THAO",Nova Sport
 acestream://15cc58b8ca2928ad68bc285df2a37f653eebd35a
 
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 3
-acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 4
-acestream://565320a5b4a952d289917f1ecf541a793ddd3342
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 5
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 6
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 7
-acestream://857c7ab59305fdccd621b6525786fe925813568d
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 8
-acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 9
-acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 13
-acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 14
-acestream://5047b066445e31e29f8fc2be2529cb5437d212a8
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 15
-acestream://e0d1b2a0cb32f9964ba452c91b2bceeac8a6d839
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 17
-acestream://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 18
-acestream://014a0825b7fd57280581f12d17dc4fb5ea992451
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 19
-acestream://1ec0f6550a17ad00cd7ba517b1f09886fb635ead
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 20
-acestream://0e3b594e6c651759e50e7d5d8b84805b37b3cff3
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 22
-acestream://d0e26383bee973abb96d59fb5557d43af9173dd0
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 23
-acestream://484eeb4f1e7a5ada8e62478c1d9abb1f048977ec
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 25
-acestream://90bcc2ae4480e1835a0b0d55c97795d9a2406771
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 27
-acestream://5b4ccfac2a1db06b8d01a4da0de1becaabcbb746
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 28
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 29
-acestream://c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 30
-acestream://108ce6559e0ad2367a34b862c8190ce18af16a09
-#EXTINF:-1 group-title="ArenaVision",ArenaVision 34
-acestream://63ab9528b16e536be0da44d6f5aceac357292b95
-
 #EXTINF:-1 group-title="4K",BCU Premiere Ultra 4K [RU]
 acestream://30b1dba65edffa2c0c8ade75257508b00d8a61ea
 #EXTINF:-1 group-title="4K",BCU Ultra 4K [RU]
@@ -387,4 +310,4 @@ acestream://4123d03e171259260299e9f30773ccf16237b8b4
 #EXTINF:-1 group-title="GIẢI TRÍ",Playboy TV HD
 acestream://8a0c2a4bfd4692851158902e692c5f9f89bd4acc
 
-
+Chúc các bác xem zui zẻ
