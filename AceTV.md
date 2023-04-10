@@ -276,7 +276,7 @@ acestream://80d98e27bc7dcad214fca3b2a7ef9ff5c1496cef
 #EXTINF:-1 group-title="GIẢI TRÍ",Fashion TV PG16
 acestream://5f43df02dba780c0677bea983c15c4a435409092
 #EXTINF:-1 group-title="GIẢI TRÍ",1HD [RU]
-acestream://0e0dff0d01f774ae003f1f36371a212d4ac7370e
+acestream://29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
 #EXTINF:-1 group-title="GIẢI TRÍ",BBC Earth HD [PL]
 acestream://59f05ddddf845c24d72c9b27ec45b02e3778c016
 #EXTINF:-1 group-title="GIẢI TRÍ",DELUXE MUSIC HD [DE]
