@@ -309,9 +309,9 @@ acestream://03754550b2f17fba37fa7ddd876a38e97444272
 acestream://d9135fcc98750c7baa7f0911828ca0dfd0d32054
 #EXTINF:-1 group-title="GIẢI TRÍ",Sky Living UK
 acestream://a1323768c7e138c7102469791d6a1add5a625b09
-#EXTINF:-1 group-title="GIẢI TRÍ",Nuart TV HD
-acestream://4123d03e171259260299e9f30773ccf16237b8b4
-#EXTINF:-1 group-title="GIẢI TRÍ",Playboy TV HD
-acestream://8a0c2a4bfd4692851158902e692c5f9f89bd4acc
+#EXTINF:-1 group-title="GIẢI TRÍ",Canal+ Film HD [PL]
+acestream://a663f007059f573e641386a1e8d5a0b8e7c92831
+#EXTINF:-1 group-title="GIẢI TRÍ",Cinemax HD [PL]
+acestream://624ba2d277ec55c7d742acd687dadc6e69a8fea9
 
 Chúc các bác xem zui zẻ
