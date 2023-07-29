@@ -264,8 +264,6 @@ acestream://038b448c810cad19a2a9e615d94696a23141e379
 acestream://2bd30c34ca8e3f1e858af297b8163184a78e45a8
 #EXTINF:-1 group-title="4K",СЕРИАЛ UHD [RU]
 acestream://3a71745381e1a6821a881c96a230b6cd365d4da5
-#EXTINF:-1 group-title="4K",FAP TV UHD 4K
-acestream://290341cc053fd10af14e88a03559530906a0d7d2
 #EXTINF:-1 group-title="4K",Love Nature 4K [RU]
 acestream://a54d3ec9d49487cb1e9102c74f341fec4cebd189
 #EXTINF:-1 group-title="4K",BCU Kids 4K [RU]
@@ -313,5 +311,12 @@ acestream://a1323768c7e138c7102469791d6a1add5a625b09
 acestream://a663f007059f573e641386a1e8d5a0b8e7c92831
 #EXTINF:-1 group-title="GIẢI TRÍ",Cinemax HD [PL]
 acestream://624ba2d277ec55c7d742acd687dadc6e69a8fea9
+
+#EXTINF:-1 group-title="WW 2023",ORF 2 HD [DE]
+acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
+#EXTINF:-1 group-title="WW 2023",ZDF HD [DE]
+acestream://c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1 group-title="WW 2023",FOX Sports 1 HD [US]
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
 Chúc các bác xem zui zẻ
